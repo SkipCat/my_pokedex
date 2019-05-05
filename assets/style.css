@@ -345,6 +345,7 @@ body, .left-side,
 	align-self: flex-end;
 	margin-left: auto;
 	z-index: -50;
+	margin-top: -52px;
 }
 
 .container-column-lines {
